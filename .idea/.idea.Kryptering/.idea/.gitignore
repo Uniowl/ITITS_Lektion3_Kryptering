@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Kryptering.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Skole\ITITS\Lektion3\Kryptering\.idea\.idea.Kryptering\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

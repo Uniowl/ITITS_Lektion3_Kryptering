@@ -1,0 +1,22 @@
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\bin\Debug\net472\Kryptering.exe.config
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\bin\Debug\net472\Kryptering.exe
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\bin\Debug\net472\Kryptering.pdb
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\bin\Debug\net472\Security.Cryptography.dll
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csprojAssemblyReference.cache
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.AssemblyInfoInputs.cache
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.AssemblyInfo.cs
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csproj.CoreCompileInputs.cache
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csproj.CopyComplete
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.exe
+D:\Skole\6. semester\It-Sikkerhed\Kryptering\Kryptering\obj\Debug\net472\Kryptering.pdb
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\bin\Debug\net472\Kryptering.exe.config
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\bin\Debug\net472\Kryptering.exe
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\bin\Debug\net472\Kryptering.pdb
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\bin\Debug\net472\Security.Cryptography.dll
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csprojAssemblyReference.cache
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.AssemblyInfoInputs.cache
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.AssemblyInfo.cs
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csproj.CoreCompileInputs.cache
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.csproj.CopyComplete
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.exe
+E:\Skole\ITITS\Lektion3\Kryptering\Kryptering\obj\Debug\net472\Kryptering.pdb
